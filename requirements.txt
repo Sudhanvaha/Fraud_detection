@@ -1,0 +1,30 @@
+# streamlit==1.28.1
+# pandas==2.0.3
+# numpy==1.24.3
+# scikit-learn==1.3.0
+# gensim==4.3.2  # Updated to latest version
+# matplotlib==3.7.2
+# seaborn==0.12.2
+# joblib==1.3.2
+# scipy==1.10.1   # Pinned to compatible version
+
+streamlit==1.28.1
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+gensim==4.3.1
+matplotlib==3.7.2
+seaborn==0.12.2
+joblib==1.3.2
+scipy==1.10.1  # Specific version that works with gensim
+
+#  for enchanced
+
+# streamlit==1.28.1
+# pandas==2.0.3
+# numpy==1.24.3
+# scikit-learn==1.2.2  # Downgraded for compatibility
+# matplotlib==3.7.2
+# seaborn==0.12.2
+# joblib==1.3.2
+# imbalanced-learn==0.10.1
